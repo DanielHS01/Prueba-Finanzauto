@@ -1,0 +1,22 @@
+h1 {
+    background-color: #047857;
+    color: white;
+    padding: 10px;
+}
+
+.search {
+    margin: 15px;
+    width: 100%;
+}
+
+.create {
+    background-color: #047857;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+input {
+    padding: 10px;
+}
